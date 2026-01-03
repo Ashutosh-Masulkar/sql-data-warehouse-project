@@ -43,22 +43,6 @@ Deliver SQL-based insights into:
 - Documentation: Markdown, Draw.io  
 - Version Control: Git, GitHub  
 
----
-## 📂 Repository Structure
-
-data-warehouse-project/
-│
-├── datasets/
-├── docs/
-├── scripts/
-│ ├── bronze/
-│ ├── silver/
-│ └── gold/
-├── tests/
-├── README.md
-└── requirements.txt
-
----
 
 ## 📜 License
 
