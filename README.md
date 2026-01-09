@@ -1,4 +1,4 @@
-# 📊 Data Warehouse and Analytics Portfolio Project
+# 📊 Data Warehouse and Analytics Project
 
 This repository contains my end-to-end Data Warehouse and Analytics project built using SQL Server and Medallion Architecture (Bronze, Silver, Gold). The project demonstrates how raw operational data can be transformed into business-ready analytical models that support data-driven decision-making.
 
